@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "from git...." >> /home/ubuntu/test.txt
+date >> /home/ubuntu/test.txt
