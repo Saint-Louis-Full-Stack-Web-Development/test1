@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I came directly from GitHub" >> /home/jenkins/test.txt
+echo "Feels like sunshine in here......" >> /home/jenkins/test.txt
