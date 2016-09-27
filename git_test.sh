@@ -1,2 +1,2 @@
 #!/bin/bash
-date >> /home/ubuntu/test.txt
+echo "I came directly from GitHub!!!" >> /home/ubuntu/test.txt
