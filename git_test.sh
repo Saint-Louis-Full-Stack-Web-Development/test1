@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Feels like sunshine in here......" >> /home/jenkins/test.txt
+echo "Still grinding, boss." >> /home/jenkins/test.txt
