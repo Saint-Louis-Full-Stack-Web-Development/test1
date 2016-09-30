@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Still grinding, boss." >> /home/jenkins/test.txt
+echo "This worked on deployment day." >> /home/jenkins/test.txt
